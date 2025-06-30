@@ -1,4 +1,4 @@
-# 🛠️ Övning: TypeScript och DOM-manipulation i Praktiken
+# 🛠️ Övning: TypeScript och DOM-manipulation i praktiken
 
 Denna övning syftar till att ge dig praktisk erfarenhet av att kombinera TypeScript med DOM-manipulation i en webbmiljö. Du kommer att skapa och använda interfaces, hämta och manipulera HTML-element, samt dynamiskt generera innehåll med hjälp av `Array.map()`.
 
