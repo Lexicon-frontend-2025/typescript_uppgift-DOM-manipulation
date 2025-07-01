@@ -37,6 +37,7 @@ I TypeScript:
 
 * Hämta elementet med `getElementById`
 * Använd `as HTMLInputElement` för att komma åt `value`
+* Lägg in `value="Något värde"` i din input i HTML-dokumentet
 * Skriv ut `value` till konsolen
 
 ### 5. Skapa och Lägg till Element
